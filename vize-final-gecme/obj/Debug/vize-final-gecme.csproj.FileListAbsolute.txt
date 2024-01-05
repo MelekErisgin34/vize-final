@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\bin\Debug\vize-final-gecme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\bin\Debug\vize-final-gecme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\bin\Debug\vize-final-gecme.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\obj\Debug\vize-final-gecme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\obj\Debug\vize-final-gecme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\obj\Debug\vize_final_gecme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\obj\Debug\vize_final_gecme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\obj\Debug\vize-final-gecme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\obj\Debug\vize-final-gecme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\obj\Debug\vize-final-gecme.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\vize-final-gecme\vize-final-gecme\obj\Debug\vize-final-gecme.pdb
